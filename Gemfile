@@ -121,6 +121,7 @@ gem "groupdate", "~> 6.1"
 gem "rails_autolink"
 # ActionView helper to render currently active links
 gem "active_link_to"
+gem "dsfr-view-components"
 
 # Easily create styled HTML emails in Rails.
 gem "premailer-rails" # Mail formatting
