@@ -28,7 +28,7 @@
 | RDV Services Publics       | Victor Mours          | Lead tech              | Relecture |
 | RDV Services Publics       | Mehdi Karouch Idrissi | Product Manager        | Relecture |
 | ANCT                       | Amélie Naquet         | Cheffe de projet SoNum | Relecture |
-| Incubateur des territoires | Charles Capelli       | Consultant SSI         | Relecture |
+| Incubateur des territoires | Florian Busi          | Expert SSI             | Relecture |
 
 ## Description du projet
 
